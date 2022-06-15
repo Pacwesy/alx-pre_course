@@ -1,1 +1,2 @@
-school #!/bin/bash i echo "School
+#!bin/bash
+echo "ALX"
